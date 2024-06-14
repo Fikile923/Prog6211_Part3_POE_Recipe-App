@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tPZs/tMESkZlGr2Y4V0fgJYYVK8bSqg8f26orc2gNpYjKX42fhp15QXCDjeXh9h0Daeis8eURk+XGFgSKw1d6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RC_Student_lab\\Source\\Repos\\POE\\POE\\POE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
